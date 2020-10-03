@@ -1,6 +1,6 @@
 # FormValidator
 ## Description
-A straightforwrd form validator for username, email, and password using vanilla JavaScript, HTML, & CSS.
+A clean, straightforward form validator for username, email, and password using JavaScript, HTML, & CSS.
 <!--
 ![README Generator Demo](assets/demo.gif)
 #### [Link to video demo](https://drive.google.com/file/d/1Vv1i1Suk_1xXno7NEySPy2-BxLXCT6rh/view)
