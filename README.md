@@ -1,6 +1,8 @@
 # FormValidator
 ## Description
 A clean, straightforward form validator for username, email, and password using JavaScript, HTML, & CSS.
+
+https://pj-brown.github.io/FormValidator/
 <!--
 ![README Generator Demo](assets/demo.gif)
 #### [Link to video demo](https://drive.google.com/file/d/1Vv1i1Suk_1xXno7NEySPy2-BxLXCT6rh/view)
